@@ -8,5 +8,10 @@
 <body>
     <h1>Hello Fila!</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque enim tenetur sint veritatis, impedit dicta facere consequuntur eaque non porro maiores ipsam laborum beatae! Velit animi enim aut officiis quidem!</p>
+    <ul>
+        <li>Keluargaku</li>
+        <li>Diriku</li>
+        <li>Kebahagiaanku</li>
+    </ul>
 </body>
 </html>
